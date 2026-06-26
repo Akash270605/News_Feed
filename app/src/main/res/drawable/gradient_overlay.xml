@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    This is a "Shape" drawable that creates a gradient effect.
+
+    It is used on top of news images to make the white text on top
+    much easier to read by adding a subtle dark tint at the top.-->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="270"
+        android:endColor="#00000000"
+        android:startColor="#80000000"/>
+</shape>

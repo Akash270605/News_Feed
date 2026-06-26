@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    This file is where we define all the Colors used in our app.
+    Here we give names to the colors instead of typing hex codes everywhere
+    -->
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    The main theme colors for the app -->
+    <color name ="colorPrimary">#1A237E</color>
+    <color name="colorPrimaryDark">#000051</color>
+    <color name="colorAccent">#FF4081</color>
+
+<!--    Background and Text colors -->
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+</resources>

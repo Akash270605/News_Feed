@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    This file defines the items that appear in the top App Bar's menu.
+ -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--  This is the "Bookmarks" button in the top right of the home screen  -->
+    <item
+        android:id="@+id/action_saved"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="Saved Articles"
+        app:showAsAction="ifRoom" />
+</menu>
