@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements NewsAdapter.OnArt
     private SharedPreferences prefs;
 
     // This is your "password" for the news website. Get one for free at newsapi.org
-    private static final String API_KEY = "67fd9b81b0ff4e289fbf744328bb2468";
+    private static final String API_KEY = "Add your API KEY";
     private static final String PREF_CATEGORY = "pref_category";
 
     // These are the sections of news we can show
